@@ -1,1 +1,2 @@
-i am just a random kid who exists
+👍hello
+🦀 rust pog
