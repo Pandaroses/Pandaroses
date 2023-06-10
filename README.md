@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15970
-Fork on GitHub4421
+
 <h1 align="center">Hi, I'm Gosha</h1>
 <h3 align="center">a boy kisser</h3>
 
