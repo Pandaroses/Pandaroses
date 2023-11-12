@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi, I'm Gosha</h1>
-<h3 align="center">a boy kisser</h3>
+<h3 align="center">rust</h3>
 
 - I mainly commit to [gosher-studios](https://github.com/gosher-studios)
 
 - I am currently writing [floppa files](https:github.com/gosher-studios/floppa-files)
 
-- 🤝 I’m looking for help with **kissing boys**
+- 🤝 I’m looking for help with **rust**
 
 - 💬 Ask me about **floppa software**
 
