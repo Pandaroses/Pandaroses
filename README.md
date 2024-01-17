@@ -4,7 +4,7 @@
 
 - I mainly commit to [gosher-studios](https://github.com/gosher-studios)
 
-- I am currently writing [floppa files](https:github.com/gosher-studios/floppa-files)
+- I am currently writing [floppa-goals](https:github.com/gosher-studios/floppa-goals)
 
 - 🤝 I’m looking for help with **rust**
 
