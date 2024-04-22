@@ -4,9 +4,9 @@
 
 - I mainly commit to [gosher-studios](https://github.com/gosher-studios)
 
-- I am currently writing [floppa-goals](https:github.com/gosher-studios/floppa-goals)
+- I work at [Studio Squared](studiosquared.co.uk)
+- I am currently writing **commissions**
 
-- 🤝 I’m looking for help with **rust**
 
 - 💬 Ask me about **floppa software**
 
