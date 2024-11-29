@@ -2,7 +2,7 @@
 
 **In education Software Developer, working on silly projects.**
 
-Software Engineer at [Studio Squared](https://studiosquared.co.uk)
+Software Developer & Project Director at [Studio Squared](https://studiosquared.co.uk)
 
 
 
