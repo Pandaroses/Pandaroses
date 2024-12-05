@@ -1,6 +1,6 @@
 ### hi 👋
 
-**passionate about unique, unconventional projects**
+**passionate about fun, unconventional projects**
 
 student, software developer & project director at [studio squared](https://studiosquared.co.uk)
 
