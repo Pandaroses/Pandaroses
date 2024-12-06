@@ -8,7 +8,7 @@ student, software developer & project director at [studio squared](https://studi
 ⭐ in my free time, i work on projects in [gosher-studios](https://github.com/gosher-studios) or [here](https://github.com/Pandaroses?tab=repositories) \
 📖 i like keyboards and headphones, currently using the [corne](https://github.com/foostan/crkbd) and [salnote zeros](https://www.linsoul.com/products/7hz-salnotes-zero) \
 ✏️ (co)creator of [floppa files](https://files.fxo.lol), [cyclic](https://cyclic.education), and [doubletapp](https://github.com/pandaroses/doubletapp) \
-👷 currently working on [floppa scale](https://github.com/gosher-studios/floppascale), feel free to contribute!
+👷 currently working on [floppa scale](https://github.com/gosher-studios/floppascale), feel free to contribute! \
 😄 more about me on [my personal website](https://fxo.lol)
 
 
